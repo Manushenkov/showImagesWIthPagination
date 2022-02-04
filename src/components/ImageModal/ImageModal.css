@@ -1,0 +1,18 @@
+.image-modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.image-modal__image {
+    width: 600px;
+    height: 600px;
+}
+
+.image-modal__button {
+    position: absolute;
+    bottom: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+}
